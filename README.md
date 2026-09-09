@@ -1,6 +1,6 @@
 ## Welcome!
 
-⚡ Looking for a bit of fun? Try [Tic-Tac-Toe](https://zenrajko.github.io/tic-tac-toe/) or [Warehouse Shift](https://zenrajko.github.io/warehouse-shift/) (WIP)
+⚡ Looking for a bit of fun? Try [Tic-Tac-Toe](https://zenrajko.github.io/tic-tac-toe/) or [Warehouse Shift (prototype)](https://zenrajko.github.io/warehouse-shift/)
 <br>
 <p>
   &nbsp;&nbsp;
