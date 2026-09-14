@@ -10,4 +10,5 @@
 </p>
 <br>
 ⚡I'm also working on an indie game - not ready to reveal any details yet.<br><br>
-<img width=50% height=50% alt="screenshot" src="https://github.com/user-attachments/assets/6e97baec-2ca4-484a-9b0d-f4943ec58f90" />
+<img width=50% height=50% alt="image" src="https://github.com/user-attachments/assets/b76f66e6-f440-4b52-aba2-70da84c14a43" />
+<img width=50% height=50% alt="image" src="https://github.com/user-attachments/assets/994d66be-2f25-4e14-b320-763fd485588d" />
