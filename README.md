@@ -10,9 +10,11 @@
 </p>
 <br>
 
-⚡Recent projects: [Nihil](https://github.com/Zenrajko/nihil-game) - a learning exercise in creating a doom-like in Unity by hand (no AI). Early stages.<br><br>
-<img width=50% height=50% alt="image" src="https://github.com/user-attachments/assets/326b2056-2e0c-46f9-9323-c18b49556ac1" /><br><br>
+⚡Recent: [Nihil](https://github.com/Zenrajko/nihil-game) - prototype for a doom-like in Unity made entirely in Unity editor with minimalist scripting and free assets. Early stages.<br><br>
+<img width="450px" alt="image" src="https://github.com/user-attachments/assets/d560fbe3-2940-45e5-9a26-4ebc84fc0a11" />
+<img width="450px" alt="image" src="https://github.com/user-attachments/assets/223a74c1-3499-4f65-9f4d-1b89d3de7209" />
+<br><br>
 
-⚡Also: Screenshots from another experiment in creating an indie horror in Unity generated entirely from scripts (AI assisted).<br><br>
+⚡Pilfer: Another experiment in creating an indie horror in Unity, this time generated entirely from scripts with no in-editor work.<br><br>
 <img src="https://github.com/user-attachments/assets/b76f66e6-f440-4b52-aba2-70da84c14a43" width="450px" />
 <img src="https://github.com/user-attachments/assets/994d66be-2f25-4e14-b320-763fd485588d" width="450px" />
