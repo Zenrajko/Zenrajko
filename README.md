@@ -15,6 +15,6 @@
 <img width="400px" alt="image" src="https://github.com/user-attachments/assets/223a74c1-3499-4f65-9f4d-1b89d3de7209" />
 <br><br>
 
-⚡Pilfer: Experiment in creating an indie horror in Unity, this time generated entirely from scripts with no in-editor work.<br><br>
+⚡[Pilfer](https://github.com/Zenrajko/pilfer-game) - Experiment in creating an indie horror in Unity, this time generated entirely from scripts with no in-editor work.<br><br>
 <img src="https://github.com/user-attachments/assets/b76f66e6-f440-4b52-aba2-70da84c14a43" width="400px" />
 <img src="https://github.com/user-attachments/assets/994d66be-2f25-4e14-b320-763fd485588d" width="400px" />
